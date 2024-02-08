@@ -85,5 +85,4 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 5. Haz push a la rama (git push origin feature/feature-name).
 6. Crea un nuevo Pull Request.
 
-## Licencia
-Este proyecto está bajo la Licencia MIT.
+
